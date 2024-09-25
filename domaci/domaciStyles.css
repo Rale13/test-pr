@@ -10,7 +10,7 @@ th {
 
 td {
     background-color: rgb(123, 123, 247);
-}
+} 
 
 td:hover {
     color: rgb(241, 241, 186);
@@ -22,4 +22,8 @@ td:hover {
     background: ffffff;
     padding: 20px;
     border-radius: 10px;
+}
+
+td.done {
+    text-decoration: line-through;
 }
