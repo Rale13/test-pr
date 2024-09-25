@@ -16,3 +16,10 @@ td:hover {
     color: rgb(241, 241, 186);
 }
 
+.container {
+    max-width: 400px;
+    margin: auto;
+    background: ffffff;
+    padding: 20px;
+    border-radius: 10px;
+}
