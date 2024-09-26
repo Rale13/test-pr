@@ -1,0 +1,29 @@
+table, th, td {
+    border: 2px solid rgb(39, 39, 39);
+    border-collapse: collapse;
+    padding: 20px 20px 20px 20px;
+}
+
+th {
+    background-color: rgb(99, 148, 99);
+}
+
+td {
+    background-color: rgb(123, 123, 247);
+} 
+
+td:hover {
+    color: rgb(241, 241, 186);
+}
+
+.container {
+    max-width: 400px;
+    margin: auto;
+    background: ffffff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+td.done {
+    text-decoration: line-through;
+}
